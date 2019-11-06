@@ -36,7 +36,7 @@ for i in range(0,5000):
     i+=1
 
 
-    # Initial buffer of 600.
+    # Initial threshold of 600.
     if i>600:
 
         # Has there been a gradient change?
